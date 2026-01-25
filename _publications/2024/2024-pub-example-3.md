@@ -19,6 +19,6 @@ authors:
   - Masahiro Nomura
   - Yuta Saito
 links:
+  Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
   Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
