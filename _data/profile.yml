@@ -47,18 +47,18 @@ education:
   date: Apr. 2023 - Mar. 2025
 
 experience:
-- name: Research Intern at CyberAgent
-  # logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Aug. 2023 - Aug. 2025
-- name: Research Intern at LY Corporation
-  # logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Aug. 2023 - present
-- name: Research Intern at Hanuku-kaso, Co., Ltd.
+- name: Hanuku-kaso, Co., Ltd.
   # logo: /assets/images/badges/PKU_red.png
   position: Research Intern
   date: May 2025 - present
+- name: LY Corporation
+  # logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Aug. 2023 - present
+- name: CyberAgent AILab
+  # logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Aug. 2023 - Aug. 2025
 
 # awards:
 # - name: Award Name 2
