@@ -90,3 +90,8 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+li.media {
+  display: list-item;
+}
+
+
