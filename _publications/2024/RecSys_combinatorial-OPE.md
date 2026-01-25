@@ -2,7 +2,7 @@
 title:          "Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "In Proceedings of the 18th ACM Conference on Recommender Systems (RecSys)"
+pub:            "In Proceedings of the 18th ACM Conference on Recommender Systems (RecSys)" (Acceptance Rate=22%)
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
