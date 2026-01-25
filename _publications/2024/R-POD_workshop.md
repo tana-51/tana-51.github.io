@@ -1,6 +1,6 @@
 ---
 title:          "Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition"
-date:           2024
+date:           2024-05-12 00:01:00 +0800
 selected:       false
 pub:            "ICML2024 Workshop: Aligning Reinforcement Learning Experimentalists and Theorists"
 # pub_pre:        "Submitted to "
