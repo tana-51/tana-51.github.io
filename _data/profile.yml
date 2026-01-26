@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Koichi Tanaka"
 
 positions:
-- name: Title or Position
+# - name: Title or Position
 - name: Keio University
   # logo: /assets/images/badges/img.png  # Logo is optional
 
