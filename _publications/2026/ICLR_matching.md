@@ -17,6 +17,7 @@ authors:
   - Koichi Tanaka
   - Masahiro Nomura
   - Riku Togashi
+  - Yoji Tomita
   - Yuta Saito
 links:
   # Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
