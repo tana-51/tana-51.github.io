@@ -1,8 +1,8 @@
 ---
 title:          "Objective-Driven Calibrated Recommendations"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-01-25 00:01:00 +0800
 selected:       false
-pub:            "preprint"
+pub:            "preprint "
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">""</span>'
