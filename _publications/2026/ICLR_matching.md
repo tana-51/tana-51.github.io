@@ -1,5 +1,5 @@
 ---
-title:          "Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching"
+title:          "Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching"
 date:           2026-01-27 00:01:00 +0800
 selected:       true
 pub:            "In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR)"
