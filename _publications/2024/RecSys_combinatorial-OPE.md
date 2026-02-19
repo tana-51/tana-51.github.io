@@ -19,7 +19,8 @@ authors:
   - Masahiro Nomura
   - Yuta Saito
 links:
-  Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
+  Proceedings: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
+  arXiv: https://arxiv.org/abs/2408.11202
   Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
 accepted_ratio: (Acceptance Rate=22%)
 ---
