@@ -22,5 +22,6 @@ authors:
 links:
   # Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
   # Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
+  arXiv: https://arxiv.org/abs/2602.15752
 accepted_ratio: (Acceptance Rate=28%)
 ---
