@@ -22,7 +22,7 @@ authors:
   - WeiWei.du
   - Yuta Saito
 links:
-  # Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
+  OpenReview: https://openreview.net/forum?id=0ZkWWxcHKV
   # Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
 accepted_ratio: (Acceptance Rate=28%)
 ---
