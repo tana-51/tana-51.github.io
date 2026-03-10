@@ -17,6 +17,7 @@ authors:
   - Yuta Saito
   - Shinji Ito
 links:
+  arXiv: https://arxiv.org/abs/2603.07005
   # Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
   # Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
 # accepted_ratio: (Acceptance Rate=20.1%)
