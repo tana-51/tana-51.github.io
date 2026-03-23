@@ -2,7 +2,7 @@
 title:          "Off-Policy Learning with Limited Supply"
 date:           2026-01-26 00:01:00 +0800
 selected:       true
-pub:            "In Proceedings of the ACM Web Conference 2026 (WWW)"
+pub:            "In Proceedings of the ACM Web Conference 2026 (TheWebConf)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">""</span>'
