@@ -23,6 +23,6 @@ authors:
   - Yuta Saito
 links:
   OpenReview: https://openreview.net/forum?id=0ZkWWxcHKV
-  # Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
+  Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE](https://github.com/sony/ds-research-code/tree/master/iclr26-rankingope
 accepted_ratio: (Acceptance Rate=28%)
 ---
