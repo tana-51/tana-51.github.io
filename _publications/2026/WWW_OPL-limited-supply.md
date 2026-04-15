@@ -20,7 +20,7 @@ authors:
   - Nobuyuki Shimizu
   - Yuta Saito
 links:
-  # Paper: https://dl.acm.org/doi/abs/10.1145/3640457.3688099
+  Proceedings: https://dl.acm.org/doi/10.1145/3774904.3792181
   arXiv: https://arxiv.org/abs/2603.18702
   Code: https://github.com/tana-51/WWW2026_OPL_Limited_Supply
 accepted_ratio: (Acceptance Rate=20.1%)
