@@ -1,6 +1,6 @@
 ---
 title:          "Combinatorial Allocation Bandits with Nonlinear Arm Utility"
-date:           2026-01-25 00:01:00 +0800
+date:           2026-06-15 00:01:00 +0800
 selected:       false
 pub:            "ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning"
 # pub_pre:        "Submitted to "
