@@ -7,5 +7,7 @@ pages:
   url: /index_layout2
 - name: Publications
   url: /publications
+- name: CV
+  url: /assets/cv/Koichi_Tanaka_CV.pdf
 # - name: Showcase
   # url: /showcase
