@@ -2,7 +2,7 @@
 title:          "Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition"
 date:           2026-08-11 00:01:00 +0800
 selected:       false
-pub:            "In Proceedings of 35th International ACM Conference on Knowledge and Information Management (CIKM 2026)"
+pub:            "In Proceedings of 35th International ACM Conference on Knowledge and Information Management (CIKM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
