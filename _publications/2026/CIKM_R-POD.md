@@ -22,4 +22,5 @@ authors:
 links:
   # Paper: https://openreview.net/forum?id=Yllb5MyFSF
   # Code: https://github.com/tana-51/Recsys2024_Combinatorial-OPE
+accepted_ratio: (Acceptance Rate=27%)
 ---
